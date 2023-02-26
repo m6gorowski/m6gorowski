@@ -1,5 +1,5 @@
 # 💫 O mnie:
-⚡ Obecnie jestem uczniem ZSEM w Nowym Sączu.<br>🔭 Uczę się na profilu technik programista.<br>🥳 Mam 16 lat.<br>👨‍💻 Aktualnie uczę się silnika Unity oraz języków programowania takich jak C#.<br>☕ Interesuję się również grami planszowymi.
+⚡ Obecnie jestem uczniem ZSEM w Nowym Sączu.<br>🔭 Uczę się na profilu technik programista.<br>🥳 Mam 17 lat.<br>👨‍💻 Aktualnie uczę się silnika Unity oraz języków programowania takich jak C#.<br>☕ Interesuję się również grami planszowymi.
 
 
 ## 🌐 Social media:
