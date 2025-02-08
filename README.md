@@ -1,5 +1,5 @@
 # 💫 About me:
-⚡ At the moment I'm a high school student in ZSEM in Nowy Sącz.<br>🔭 I am learning on the programmer technician profile.<br>🥳 I'm 17 years old.<br>👨‍💻 Currently I am learning Unity engine and programming languages such as C#.<br>☕ I am also interested in board games, books and mathematics.
+⚡ At the moment I'm a high school student in ZSEM in Nowy Sącz.<br>🔭 I am learning on the programmer technician profile.<br>🥳 I'm 19 years old.<br>👨‍💻 Currently I am learning Unity engine and programming languages such as C#.<br>☕ I am also interested in board games, books and mathematics.
 
 
 ## 🌐 Social media:
